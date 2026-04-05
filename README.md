@@ -2,7 +2,9 @@
 # การวิเคราะห์และแสดงผลข้อมูลโดยใช้ SQL Server
 สำหรับแสดงผลงานระหว่างการเรียนวิชา Business Intelligence in Data Science
 Project นี้เป็นการนำข้อมูลร้านค้าพนักงานและสินค้าต่างๆ มาทำการวิเคระห์เพื่อตอบโจทย์ความต้องการของลูกค้า 
+
 [Dash_01](https://github.com/Chaiwat-Aepsuk/Sales-Data-Analytics-using-SQL-Power-BI/blob/bb1cac4d031d97b4dd28cf1b2fdf51c3bb22f148/Dash_01.pbix) เป็นการวิเคราะห์ยอดขายและผลงานพนักงาน
+
 [Dash_02](https://github.com/Chaiwat-Aepsuk/Sales-Data-Analytics-using-SQL-Power-BI/blob/bb1cac4d031d97b4dd28cf1b2fdf51c3bb22f148/Dash02.pbix) เป็นการแสดง 10 อันดับสินค้าที่ขายได้ดี กับขายได้ไม่ดี และทำนายยอดขายในอนาคต ของแต่ละสาขาหรือสินค้าต่อละชิ้นในอีก 5 ปี
 # ขั้นตอนในการทำงาน
 1.ดึงข้อมูลจาก Data base มาสร้าง Data Warehouse ชื่อ Datamart 
