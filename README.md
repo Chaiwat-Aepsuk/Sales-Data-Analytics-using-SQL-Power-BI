@@ -8,16 +8,21 @@ Project นี้เป็นการนำข้อมูลร้านค้
 [Dash_02](https://github.com/Chaiwat-Aepsuk/Sales-Data-Analytics-using-SQL-Power-BI/blob/bb1cac4d031d97b4dd28cf1b2fdf51c3bb22f148/Dash02.pbix) เป็นการแสดง 10 อันดับสินค้าที่ขายได้ดี กับขายได้ไม่ดี และทำนายยอดขายในอนาคต ของแต่ละสาขาหรือสินค้าต่อละชิ้นในอีก 5 ปี
 # ขั้นตอนในการทำงาน
 1.ดึงข้อมูลจาก Data base มาสร้าง Data Warehouse ชื่อ Datamart 
+
 2.ทำการตรวจสอบตารางว่าข้อมูลหรือตารางมีอยู่หรือไม่ และสร้าง Dimension Tables คือ 
 - D_Shop
 - D_Year
 - D_Product
 - D_Employee
+  
 3.Extract + Load data จาก Data base และทำการ Transformation Data
+
 4.สร้าง Fact Table (F_Sales) เพื่อทำการวิเคราห์สิ่งที่เราต้องการด้วยการ JOIN และคำสั่งอื่นๆ เช่น
+
 - SaleQty (จำนวนชิ้น)
 - Sales_Amount (จำนวนยอดขาย)
 - Tot_Commission (ค่า Commission)
+  
 5.Transfer data to Power BI เพื่อแสดง Dashboard
 
 # 📗 ผลสรุป (Summarize)
