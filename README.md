@@ -1,5 +1,5 @@
-# Data Analytics & Visualization using SQL Server
-# การวิเคราะห์และแสดงผลข้อมูลโดยใช้ SQL Server
+# Data Analytics & Visualization using SQL Server 
+# การวิเคราะห์และแสดงผลข้อมูลโดยใช้ SQL Server (ปี2)
 สำหรับแสดงผลงานระหว่างการเรียนวิชา Business Intelligence in Data Science
 Project นี้เป็นการนำข้อมูลร้านค้าพนักงานและสินค้าต่างๆ มาทำการวิเคระห์เพื่อตอบโจทย์ความต้องการของลูกค้า 
 
